@@ -26,12 +26,25 @@ The project includes the following main components:
 - **Person.java**: Represents individuals within the system, such as customers or employees.
 - **Ticket.java**: Manages the creation and handling of tickets, including seat allocation and payment processing.
 
-## How to Run
+## Installation
+To run this project on your local machine, follow these steps:
 
-**Clone the Repository**: 
-   ```bash
-   git clone https://github.com/sakith71/CinemaManagementSystem.git
-   cd CinemaManagementSystem
-```
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/sakith71/CinemaManagementSystem.git
+    ```
+2. **Navigate to the Project Directory**:
+    ```bash
+    cd CinemaManagementSystem
+    ```
+3. **Compile the Java Files**:
+    ```bash
+    javac *.java
+    ```
+4. **Run the Application**:
+    ```bash
+    java CinemaManagementSystem
+    ```
+
 <hr><br>
 The Cinema Management System aims to provide a robust and scalable solution for cinemas looking to modernize their operations. By automating routine tasks and providing valuable insights through reporting, this system helps cinemas enhance both operational efficiency and customer satisfaction.
